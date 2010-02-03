@@ -1,4 +1,5 @@
 #! /usr/bin/env python
+#Made by Henrique & Oceane - NTNU
 import pylab
 
 const_less = []
